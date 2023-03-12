@@ -1,0 +1,6 @@
+{
+  "**/*.{js,jsx,ts,tsx,css,scss,md}": [
+    "yarn lint:fix",
+    "yarn test:ci"
+  ]
+}
